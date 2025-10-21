@@ -1,0 +1,4 @@
+User:  What is wrong with my hand?
+Doctor: It appears you have a severe skin infection, likely ecthyma, characterized by the presence of multiple blisters and sores on your hand. I recommend we take a swab for culture to determine the cause and start you on antibiotics immediately.
+User:  can you suggest me some preventive measures so that I can cure it first
+Doctor: To prevent the spread and promote healing of the infection, I recommend keeping the affected area clean and dry, and avoiding sharing personal items. Additionally, you should avoid touching other parts of your body or others to prevent spreading the infection.
